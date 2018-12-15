@@ -12,7 +12,7 @@
 Τα απραίτητα υλικά για την υλοποίησή είναι τα ακόλουθα:
 
 
- 1) 1x3m Ταινία LED 7.2W/m IP20 Ψυχρό Χρώμα
+ 1) 1x 3m Ταινία LED 7.2W/m IP20 Ψυχρό Χρώμα
  2) 6x IRFZ44N NMOSFET transistor
  3) 6x αντιστάτες 10K ισχύος 1/4W ανοχής 5%
  4) 1x Πλακέτα Arduino Uno (Μικροελεγκτής ATmega328)
@@ -30,4 +30,5 @@
 16) 2x Pin Header 1x4 Male 2,54mm, Soldering 
 17) 2x Pin Header 1x4 Male 2,54mm, Soldering 
 18) 14x Crimp for Dupint Female
+19) 1x Τροφοδοτικό 12VDC 3A 38W IP65
 
