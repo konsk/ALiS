@@ -22,6 +22,12 @@
  8) 2x Αισθητήρας ανίχνευσης κίνησης (HC-SR501)
  9) 1x Αισθητήρας ήχου (Sound module με ενσωματωμένο ενισχυτή πχ το ολοκληρωμένο LM386)
 10) 1x διάτρητη πλακέτα (μονής όψης) (20x80 mm)
-11) 2x(2x4m) καλώδιο τύπου ribbon 
-12) 4x(2x7m) καλώδιο τύπου ribbon
-13) 2x(2x1m) καλώδιο τύπου ribbon
+11) 2x 2x4m καλώδιο τύπου ribbon 
+12) 4x 2x7m καλώδιο τύπου ribbon
+13) 2x 2x1m καλώδιο τύπου ribbon
+14) 2x Terminal Female 3Pins 2,54mm
+15) 2x Terminal Female 4Pins 2,54mm
+16) 2x Pin Header 1x4 Male 2,54mm, Soldering 
+17) 2x Pin Header 1x4 Male 2,54mm, Soldering 
+18) 14x Crimp for Dupint Female
+
