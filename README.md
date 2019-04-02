@@ -28,5 +28,5 @@
 15) 14x Crimp for Dupint Female
 16) 2x 2x4m καλώδιο τύπου ribbon 
 17) 4x 2x7m καλώδιο τύπου ribbon
-18) 2x 2x1m καλώδιο τύπου ribbonn
+18) 2x 2x1m καλώδιο τύπου ribbonn   [you](https://www.youtube.com/watch?v=nvPOUdz5PL4)
 
