@@ -10,4 +10,4 @@
 
 ![A Li S_bb](https://user-images.githubusercontent.com/44722131/55390846-b7b6f700-5540-11e9-8330-c10e4a52d8e2.jpg)
 
-Τα απραίτητα υλικά για την υλοποίησή βρίσκονται στον σύνδεσμο: [Materials](https://www.youtube.com/watch?v=nvPOUdz5PL4)
+Τα απραίτητα υλικά για την υλοποίησή βρίσκονται στον σύνδεσμο: [Materials](https://github.com/konsk/A.Li.S./blob/master/Materials.md)
