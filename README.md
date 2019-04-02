@@ -10,28 +10,4 @@
 
 ![A Li S_bb](https://user-images.githubusercontent.com/44722131/55390846-b7b6f700-5540-11e9-8330-c10e4a52d8e2.jpg)
 
-Τα απραίτητα υλικά για την υλοποίησή είναι τα ακόλουθα:
- 1) 1x Πλακέτα Arduino Uno (Μικροελεγκτής ATmega328)
- 2) 1x Αισθητήρας απόστασης (πχ HC-SR04)
- 3) 1x Αισθητήρας ανίχνευσης κίνησης (HC-SR501)
- 4) 4x IRFZ44N NMOSFET transistor
- 5) 4x Φωτοαντιστάσεις-LDR 5mm (10K-20K) 
- 6) 10x αντιστάτες 10K ισχύος 1/4W ανοχής 5%
- 7) 4x αντιστάτες 100Ω ισχύος 1/4W ανοχής 5%
- 8) 1x διάτρητη πλακέτα (μονής όψης) (20x80 mm)
- 9) 1x Τροφοδοτικό 12VDC 1A
-10) 1x 80cm Ταινία LED 14.4 W/m IP20 Ψυχρό Χρώμα
-11) 2x Terminal Female 3Pins 2,54mm
-12) 2x Terminal Female 4Pins 2,54mm
-13) 2x Pin Header 1x4 Male 2,54mm, Soldering 
-14) 2x Pin Header 1x4 Male 2,54mm, Soldering 
-15) 14x Crimp for Dupint Female
-16) 2x 2x4m καλώδιο τύπου ribbon 
-17) 4x 2x7m καλώδιο τύπου ribbon
-18) 2x 2x1m καλώδιο τύπου ribbonn   [you](https://www.youtube.com/watch?v=nvPOUdz5PL4)
-
-|1 | Πλακέτα Arduino Uno   (Μικροελεγκτής ATmega328)
-|-- | --
-|2 | Τροφοδοτικό 12VDC 1A
-|3 | Αισθητήρας απόστασης (πχ HC-SR04)
-|4 | Αισθητήρας ανίχνευσης κίνησης (HC-SR501)
+Τα απραίτητα υλικά για την υλοποίησή βρίσκονται στον σύνδεσμο: [Materials](https://www.youtube.com/watch?v=nvPOUdz5PL4)
