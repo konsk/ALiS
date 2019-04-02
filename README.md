@@ -30,3 +30,8 @@
 17) 4x 2x7m καλώδιο τύπου ribbon
 18) 2x 2x1m καλώδιο τύπου ribbonn   [you](https://www.youtube.com/watch?v=nvPOUdz5PL4)
 
+|1 | Πλακέτα Arduino Uno   (Μικροελεγκτής ATmega328)
+|-- | --
+|2 | Τροφοδοτικό 12VDC 1A
+|3 | Αισθητήρας απόστασης (πχ HC-SR04)
+|4 | Αισθητήρας ανίχνευσης κίνησης (HC-SR501)
