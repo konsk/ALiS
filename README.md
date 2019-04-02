@@ -30,4 +30,4 @@
 17) 4x 2x7m καλώδιο τύπου ribbon
 18) 2x 2x1m καλώδιο τύπου ribbonn
 
-
+[ΥΛΙΚΑ_new.xlsx](https://github.com/konsk/A.Li.S./files/3033187/_new.xlsx)
