@@ -1,5 +1,7 @@
-Α/Α | ΥΛΙΚΑ ΗΛΕΚΤΡΟΝΙΚΩΝ ΚΥΚΛΩΜΑΤΩΝ | Τεμάχια | Κόστος / τεμάχιο | Κόστος | Κατάστημα
--- | -- | -- | -- | -- | --
+Υλικά για την κατασκευή του συστήματος A.Li.S. και της μακέτας (προσομοίωση αίθουσας)
+
+Α/Α | ΥΛΙΚΑ ΗΛΕΚΤΡΟΝΙΚΩΝ ΚΥΚΛΩΜΑΤΩΝ | Τεμάχια | Κόστος (Ευρώ) / τεμάχιο | Κόστος (Ευρώ) | Κατάστημα
+:--: | :--: | :--: | :--: | :--: | :--:
 1 | Πλακέτα Arduino Uno (Μικροελεγκτής ATmega328) | 1 | 22,9 | 22,9 | [Grobotronics](https://grobotronics.com/arduino-uno-rev3.html)
 2 | Τροφοδοτικό 12VDC 1A | 1 | 4 | 4 | [Grobotronics](https://grobotronics.com/12v-1a-output-5.5x2.1-psu-1601.html)
 3 | Αισθητήρας απόστασης (πχ HC-SR04) | 1 | 2,5 | 2,5 | [Grobotronics](https://grobotronics.com/ultrasonic-sensor-sr04.html)
@@ -35,6 +37,6 @@
 31 | Καρφίτσες | 1 | 0,49 | 0,49 | [Πλαίσιο](https://www.plaisio.gr/xartopoleio/promitheies-grafeiou/pinezes-karfitses/@Work-Steel-Pins-AW10872.htm)
 32 | Δεματικά (zip ties) | 1 | 0,99 | 0,99 | [Πλαίσιο](https://www.plaisio.gr/desktop-laptop/periferiaka/cables-kalodia/Sentio-Cable-Ties-3-Dimensions-D12-75.htm)
 33 | Μονωτική ταινία (λευκή) (πάχος 45mm) | 1 | 1,4 | 1,4 | [E-tools](https://www.etools.gr/index.php?route=product/product&path=9_135&product_id=3147)
-  | ΣΥΝΟΛΙΚΟ ΚΟΣΤΟΣ | 81,2 |  
+ |  |  | ΣΥΝΟΛΙΚΟ ΚΟΣΤΟΣ | 81,2 |  
 
 
