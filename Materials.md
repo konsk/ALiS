@@ -1,5 +1,5 @@
 # Υλικά για την κατασκευή του συστήματος A.Li.S. και της μακέτας (προσομοίωση αίθουσας)
-
+![A Li S_bb](https://github.com/konsk/A.Li.S./blob/master/hardware-designs/materials1.jpg)
 Α/Α | ΥΛΙΚΑ ΗΛΕΚΤΡΟΝΙΚΩΝ ΚΥΚΛΩΜΑΤΩΝ | Τεμάχια | Κόστος (Ευρώ) / τεμάχιο | Κόστος (Ευρώ) | Κατάστημα
 :--: | :--: | :--: | :--: | :--: | :--:
 1 | Πλακέτα Arduino Uno (Μικροελεγκτής ATmega328) | 1 | 22,9 | 22,9 | [Grobotronics](https://grobotronics.com/arduino-uno-rev3.html)
