@@ -31,19 +31,20 @@
 25 | Molex Connector Male 4-Pin   2.54mm | 1 | 0,08 | 0,08 |[Grobotronics](https://grobotronics.com/molex-connector-male-4-pin-2.54mm.html)
 26 | Molex Connector Female 4-Pin   2.54mm | 1 | 0,03 | 0,03 | [Grobotronics](https://grobotronics.com/molex-connector-female-4-pin-2.54mm.html)
 27 | DC Power Jack 5.5 x 2.1mm Barrel | 1 | 0,6 | 0,6 | [Grobotronics](https://grobotronics.com/dc-power-jack-5.5-x-2.1mm-barrel.html)
-28 | Καλώδια Jumber 15cm male to male (pack of 10) | 1 | 1,8 | 1,8 | [Grobotronics](https://grobotronics.com/jumper-wires-15cm-male-to-male-pack-of-10.html)
-29 | Καλώδια Jumber 15cm male to female (pack of  10) | 1 | 1,8 | 1,8 | [Grobotronics](https://grobotronics.com/jumper-wires-15cm-female-to-male-pack-of-10.html)
-30 | 16x1m καλώδιο τύπου ribbon | 8 | 0,7 | 5,6 | [Grobotronics](https://grobotronics.com/ribbon-cable-28awg-0.081mm2-16-wirevv.html)
-31 | Μονόκλωνο καλώδιο (1m) | 1 | 0,05 | 0,05 | [Grobotronics](https://grobotronics.com/single-core-wire-wrapping-wire-green-1000ft-305m.html)
-32 | Project Box 176x126x57.4mm -   Grey (Kradex Z74JPH ABS)  (προαιρετικό) | 1 | 4,9 | 4,9 | [Grobotronics](https://grobotronics.com/176x126x57.4mm-grey-kradex-z74jph-abs.html)
+28 | DC Power Plug 5.5 x 2.1mm | 1 | 0,25 | 0,25 | [Grobotronics](https://grobotronics.com/dc-power-plug-5.5-x-2.1mm.html)
+29 | Καλώδια Jumber 15cm male to male (pack of 10) | 1 | 1,8 | 1,8 | [Grobotronics](https://grobotronics.com/jumper-wires-15cm-male-to-male-pack-of-10.html)
+30 | Καλώδια Jumber 15cm male to female (pack of  10) | 1 | 1,8 | 1,8 | [Grobotronics](https://grobotronics.com/jumper-wires-15cm-female-to-male-pack-of-10.html)
+31 | 16x1m καλώδιο τύπου ribbon | 8 | 0,7 | 5,6 | [Grobotronics](https://grobotronics.com/ribbon-cable-28awg-0.081mm2-16-wirevv.html)
+32 | Μονόκλωνο καλώδιο (1m) | 1 | 0,05 | 0,05 | [Grobotronics](https://grobotronics.com/single-core-wire-wrapping-wire-green-1000ft-305m.html)
+33 | Project Box 176x126x57.4mm -   Grey (Kradex Z74JPH ABS)  (προαιρετικό) | 1 | 4,9 | 4,9 | [Grobotronics](https://grobotronics.com/176x126x57.4mm-grey-kradex-z74jph-abs.html)
   |   |   |   |   |  
 Α/Α | ΥΛΙΚΑ ΜΑΚΕΤΑΣ |   |   |   |  
-33 | Μακετοχαρτο λευκό 10x50x70cm (Y-Π-Μ) | 3 | 4,99 | 14,97 | [Πλαίσιο](https://www.plaisio.gr/zografiki-diy/maketa/xartonia/Neofoam-Paper-Board-50x70cm-10mm-10MM-50X70.htm)
-34 | Χαρτόνι 50x70 (οποιοδήποτε ανοιχτό χρώμα) | 2 | 0,99 | 1,98 | [Jumbo](https://www.e-jumbo.gr/scholika/cheirotechnia/chartonia-cheirotechnias/chartonia-typou-canson/chartoni-typou-canson-portokali-50x70_68951)
-35 | Θερμοκόλλα | 1 | 1,49 | 1,49 | [Πλαίσιο](https://www.plaisio.gr/zografiki-diy/kataskeves-diy/thermokolisi/@Work-Ravdoi-Silikonis-11mmx20cm-6tem-AW10956.htm)
-36 | Καρφίτσες | 1 | 0,49 | 0,49 | [Πλαίσιο](https://www.plaisio.gr/xartopoleio/promitheies-grafeiou/pinezes-karfitses/@Work-Steel-Pins-AW10872.htm)
-37 | Δεματικά (zip ties) | 1 | 0,99 | 0,99 | [Πλαίσιο](https://www.plaisio.gr/desktop-laptop/periferiaka/cables-kalodia/Sentio-Cable-Ties-3-Dimensions-D12-75.htm)
-38 | Μονωτική ταινία (λευκή) (πάχος 45mm) | 1 | 1,4 | 1,4 | [E-tools](https://www.etools.gr/index.php?route=product/product&path=9_135&product_id=3147)
- |  |  | ΣΥΝΟΛΙΚΟ ΚΟΣΤΟΣ | 82,8 |  
+34 | Μακετοχαρτο λευκό 10x50x70cm (Y-Π-Μ) | 3 | 4,99 | 14,97 | [Πλαίσιο](https://www.plaisio.gr/zografiki-diy/maketa/xartonia/Neofoam-Paper-Board-50x70cm-10mm-10MM-50X70.htm)
+35 | Χαρτόνι 50x70 (οποιοδήποτε ανοιχτό χρώμα) | 2 | 0,99 | 1,98 | [Jumbo](https://www.e-jumbo.gr/scholika/cheirotechnia/chartonia-cheirotechnias/chartonia-typou-canson/chartoni-typou-canson-portokali-50x70_68951)
+36 | Θερμοκόλλα | 1 | 1,49 | 1,49 | [Πλαίσιο](https://www.plaisio.gr/zografiki-diy/kataskeves-diy/thermokolisi/@Work-Ravdoi-Silikonis-11mmx20cm-6tem-AW10956.htm)
+37 | Καρφίτσες | 1 | 0,49 | 0,49 | [Πλαίσιο](https://www.plaisio.gr/xartopoleio/promitheies-grafeiou/pinezes-karfitses/@Work-Steel-Pins-AW10872.htm)
+38 | Δεματικά (zip ties) | 1 | 0,99 | 0,99 | [Πλαίσιο](https://www.plaisio.gr/desktop-laptop/periferiaka/cables-kalodia/Sentio-Cable-Ties-3-Dimensions-D12-75.htm)
+39 | Μονωτική ταινία (λευκή) (πάχος 45mm) | 1 | 1,4 | 1,4 | [E-tools](https://www.etools.gr/index.php?route=product/product&path=9_135&product_id=3147)
+ |  |  | ΣΥΝΟΛΙΚΟ ΚΟΣΤΟΣ | 83,05 |  
 
 
