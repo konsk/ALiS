@@ -25,6 +25,9 @@
 Τέλος στο προαιρετικό κουτί με τα ηλεκτρονικά, μπορούν να γίνουν τρύπες για το πέρασμα των καλωδίων σε σημεία που εξαρτώνται από το σημείο τοποθέτησής της μονάδας σε σχέση με την μακέτα-προσομοίωση αίθουσας.
 
 ![](https://github.com/konsk/A.Li.S./blob/master/hardware-designs/led_driver.png)
+![](https://github.com/konsk/A.Li.S./blob/master/hardware-designs/control_unit_1.jpg)
+
+
 
 **Κατασκευή μακέτας**
 
