@@ -1,6 +1,9 @@
 # Υλικά για την κατασκευή του συστήματος A.Li.S. και της μακέτας (προσομοίωση αίθουσας)
-<img src="https://github.com/konsk/A.Li.S./blob/master/hardware-designs/materials_A.jpg" alt="materials_A" class="center" height="310" width="410">
-<img src="https://github.com/konsk/A.Li.S./blob/master/hardware-designs/materials_B.jpg" alt="materials_A" class="center" height="310" width="410">
+|Απαραίτητα Υλικά|Προαιρετικά υλικά|
+:-------------------------:|:-------------------------:
+![](https://github.com/konsk/A.Li.S./blob/master/hardware-designs/materials_A.jpg)  |  ![](https://github.com/konsk/A.Li.S./blob/master/hardware-designs/materials_B.jpg)
+
+
 
 Α/Α | ΥΛΙΚΑ ΗΛΕΚΤΡΟΝΙΚΩΝ ΚΥΚΛΩΜΑΤΩΝ | Τεμάχια | Κόστος (Ευρώ) / τεμχιο | Κόστος (Ευρώ) | Κατάστημα
 :--: | :--: | :--: | :--: | :--: | :--:
