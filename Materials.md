@@ -1,5 +1,5 @@
 # Υλικά για την κατασκευή του συστήματος A.Li.S. και της μακέτας (προσομοίωση αίθουσας)
-|#Απαραίτητα υλικά|#Προαιρετικά υλικά|
+|**Απαραίτητα υλικά**|**Προαιρετικά υλικά**|
 :-------------------------:|:-------------------------:
 ![](https://github.com/konsk/A.Li.S./blob/master/hardware-designs/materials_A.jpg)  |  ![](https://github.com/konsk/A.Li.S./blob/master/hardware-designs/materials_B.jpg)
 
