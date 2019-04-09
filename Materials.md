@@ -1,4 +1,4 @@
-# Υλικά για την κατασκευή του συστήματος A.Li.S. και της μακέτας (προσομοίωση αίθουσας)
+## Υλικά για την κατασκευή του συστήματος A.Li.S. και της μακέτας (προσομοίωση αίθουσας)
 |**Απαραίτητα υλικά**|**Προαιρετικά υλικά**|
 :-------------------------:|:-------------------------:
 ![](https://github.com/konsk/A.Li.S./blob/master/hardware-designs/materials_A.jpg)  |  ![](https://github.com/konsk/A.Li.S./blob/master/hardware-designs/materials_B.jpg)
@@ -51,4 +51,7 @@
 40 | Μονωτική ταινία (λευκή) (πάχος 45mm) | 1 | 1,4 | 1,4 | [E-tools](https://www.etools.gr/index.php?route=product/product&path=9_135&product_id=3147)
  |  |  | ΣΥΝΟΛΙΚΟ ΚΟΣΤΟΣ | 83,13 |  
 
+|**Απαραίτητα υλικά**|
+:-------------------------:
+![](https://github.com/konsk/A.Li.S./blob/master/hardware-designs/materials_A.jpg)  | 
 
