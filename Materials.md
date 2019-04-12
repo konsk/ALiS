@@ -51,3 +51,5 @@
 40 | Δεματικά (zip ties) | 1 | 0,99 | 0,99 | [Πλαίσιο](https://www.plaisio.gr/desktop-laptop/periferiaka/cables-kalodia/Sentio-Cable-Ties-3-Dimensions-D12-75.htm)
 41 | Μονωτική ταινία (λευκή) (πάχος 45mm) | 1 | 1,4 | 1,4 | [E-tools](https://www.etools.gr/index.php?route=product/product&path=9_135&product_id=3147)
  |  |  | ΣΥΝΟΛΙΚΟ ΚΟΣΤΟΣ | 83,17 |  
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
