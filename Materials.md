@@ -15,7 +15,7 @@
 6 | IRFZ44N NMOSFET transistor | 4 | 0,8 | 3,2 | [Grobotronics](https://grobotronics.com/mosfet-n-channel-55v-41a-irfz44npbf.html)
 7 | Φωτοαντιστάσεις-LDR 5mm (10K-20K) | 4 | 0,2 | 0,8 | [Grobotronics](https://grobotronics.com/photo-resistor-ldr-5mm.html)
 8 | Αντιστάτες 10K ισχύος 1/4W ανοχής 5% | 4 | 0,01 | 0,04 | [Grobotronics](https://grobotronics.com/carbon-1-4w-5-10kohm.html)
-9 | Αντιστάτες 10Ω ισχύος 1/4W ανοχής 5% | 4 | 0,01 | 0,04 | [Grobotronics](https://grobotronics.com/carbon-1-4w-5-100ohm.html)
+9 | Αντιστάτες 10Ω ισχύος 1/4W ανοχής 5% | 4 | 0,01 | 0,04 | [Grobotronics](https://grobotronics.com/carbon-1-4w-5-10ohm.html)
 10 | Aντιστάτες 100K ισχύος 1/4W ανοχής 5% | 4 | 0,01 | 0,04 | [Grobotronics](https://grobotronics.com/carbon-1-4w-5-100kohm.html)
 11 | Αντιστάτες 680 ισχύος 1/4W ανοχής 5% | 4 | 0,01 | 0,04 | [Grobotronics](https://grobotronics.com/carbon-1-4w-5-680ohm.html)
 12 | Led κόκκινες 5mm (απλές-όχι ισχύος) | 4 | 0,1 | 0,4 | [Grobotronics](https://grobotronics.com/led-diffused-5mm-elrd.html)
