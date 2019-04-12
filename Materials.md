@@ -41,17 +41,13 @@
 32 | 16x1m καλώδιο τύπου ribbon | 8 | 0,7 | 5,6 | [Grobotronics](https://grobotronics.com/ribbon-cable-28awg-0.081mm2-16-wirevv.html)
 33 | Μονόκλωνο καλώδιο (1m) | 1 | 0,05 | 0,05 | [Grobotronics](https://grobotronics.com/single-core-wire-wrapping-wire-green-1000ft-305m.html)
 34 | Project Box 176x126x57.4mm -   Grey (Kradex Z74JPH ABS)  (προαιρετικό) | 1 | 4,9 | 4,9 | [Grobotronics](https://grobotronics.com/176x126x57.4mm-grey-kradex-z74jph-abs.html)
+35 | Αντιστάτες 180Ω ισχύος 1/4W ανοχής 5% | 4 | 0,01 | 0,04 | [Grobotronics](https://grobotronics.com/carbon-1-4w-5-180ohm.html)
   |   |   |   |   |  
 **Α/Α** |**ΥΛΙΚΑ ΜΑΚΕΤΑΣ** | **Τεμάχια** | **Κόστος** / **Τεμάχιο (Ευρώ)** | **Κόστος (Ευρώ)** | **Κατάστημα** 
-35 | Μακετοχαρτο λευκό 10x50x70cm (Y-Π-Μ) | 3 | 4,99 | 14,97 | [Πλαίσιο](https://www.plaisio.gr/zografiki-diy/maketa/xartonia/Neofoam-Paper-Board-50x70cm-10mm-10MM-50X70.htm)
-36 | Χαρτόνι 50x70 (οποιοδήποτε ανοιχτό χρώμα) | 2 | 0,99 | 1,98 | [Jumbo](https://www.e-jumbo.gr/scholika/cheirotechnia/chartonia-cheirotechnias/chartonia-typou-canson/chartoni-typou-canson-portokali-50x70_68951)
-37 | Θερμοκόλλα | 1 | 1,49 | 1,49 | [Πλαίσιο](https://www.plaisio.gr/zografiki-diy/kataskeves-diy/thermokolisi/@Work-Ravdoi-Silikonis-11mmx20cm-6tem-AW10956.htm)
-38 | Καρφίτσες | 1 | 0,49 | 0,49 | [Πλαίσιο](https://www.plaisio.gr/xartopoleio/promitheies-grafeiou/pinezes-karfitses/@Work-Steel-Pins-AW10872.htm)
-39 | Δεματικά (zip ties) | 1 | 0,99 | 0,99 | [Πλαίσιο](https://www.plaisio.gr/desktop-laptop/periferiaka/cables-kalodia/Sentio-Cable-Ties-3-Dimensions-D12-75.htm)
-40 | Μονωτική ταινία (λευκή) (πάχος 45mm) | 1 | 1,4 | 1,4 | [E-tools](https://www.etools.gr/index.php?route=product/product&path=9_135&product_id=3147)
- |  |  | ΣΥΝΟΛΙΚΟ ΚΟΣΤΟΣ | 83,13 |  
-
-|**Απαραίτητα υλικά**|
-:-------------------------:
-![](https://github.com/konsk/A.Li.S./blob/master/hardware-designs/materials_A.jpg)  | 
-
+36 | Μακετοχαρτο λευκό 10x50x70cm (Y-Π-Μ) | 3 | 4,99 | 14,97 | [Πλαίσιο](https://www.plaisio.gr/zografiki-diy/maketa/xartonia/Neofoam-Paper-Board-50x70cm-10mm-10MM-50X70.htm)
+37 | Χαρτόνι 50x70 (οποιοδήποτε ανοιχτό χρώμα) | 2 | 0,99 | 1,98 | [Jumbo](https://www.e-jumbo.gr/scholika/cheirotechnia/chartonia-cheirotechnias/chartonia-typou-canson/chartoni-typou-canson-portokali-50x70_68951)
+38 | Θερμοκόλλα | 1 | 1,49 | 1,49 | [Πλαίσιο](https://www.plaisio.gr/zografiki-diy/kataskeves-diy/thermokolisi/@Work-Ravdoi-Silikonis-11mmx20cm-6tem-AW10956.htm)
+39 | Καρφίτσες | 1 | 0,49 | 0,49 | [Πλαίσιο](https://www.plaisio.gr/xartopoleio/promitheies-grafeiou/pinezes-karfitses/@Work-Steel-Pins-AW10872.htm)
+40 | Δεματικά (zip ties) | 1 | 0,99 | 0,99 | [Πλαίσιο](https://www.plaisio.gr/desktop-laptop/periferiaka/cables-kalodia/Sentio-Cable-Ties-3-Dimensions-D12-75.htm)
+41 | Μονωτική ταινία (λευκή) (πάχος 45mm) | 1 | 1,4 | 1,4 | [E-tools](https://www.etools.gr/index.php?route=product/product&path=9_135&product_id=3147)
+ |  |  | ΣΥΝΟΛΙΚΟ ΚΟΣΤΟΣ | 83,17 |  
