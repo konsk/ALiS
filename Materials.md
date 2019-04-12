@@ -1,11 +1,11 @@
-## Υλικά για την κατασκευή του συστήματος A.Li.S. και της μακέτας (προσομοίωση αίθουσας)
+### Υλικά για την κατασκευή του συστήματος A.Li.S. και της μακέτας (προσομοίωση αίθουσας)
 |**Απαραίτητα υλικά**|**Προαιρετικά υλικά**|
 :-------------------------:|:-------------------------:
 ![](https://github.com/konsk/A.Li.S./blob/master/hardware-designs/materials_A.jpg)  |  ![](https://github.com/konsk/A.Li.S./blob/master/hardware-designs/materials_B.jpg)
 
 
 
-Α/Α | ΥΛΙΚΑ ΗΛΕΚΤΡΟΝΙΚΩΝ ΚΥΚΛΩΜΑΤΩΝ | Τεμάχια | Κόστος (Ευρώ) / Τεμάχιο | Κόστος (Ευρώ) | Κατάστημα
+Α/Α | ΥΛΙΚΑ ΗΛΕΚΤΡΟΝΙΚΩΝ ΚΥΚΛΩΜΑΤΩΝ | Τεμάχια | Κόστος / Τεμάχιο (Ευρώ) | Κόστος (Ευρώ) | Κατάστημα
 :--: | :--: | :--: | :--: | :--: | :--:
 1 | Πλακέτα Arduino Uno (Μικροελεγκτής ATmega328) | 1 | 22,9 | 22,9 | [Grobotronics](https://grobotronics.com/arduino-uno-rev3.html)
 2 | Τροφοδοτικό 12VDC 1A | 1 | 4 | 4 | [Grobotronics](https://grobotronics.com/12v-1a-output-5.5x2.1-psu-1601.html)
@@ -42,7 +42,7 @@
 33 | Μονόκλωνο καλώδιο (1m) | 1 | 0,05 | 0,05 | [Grobotronics](https://grobotronics.com/single-core-wire-wrapping-wire-green-1000ft-305m.html)
 34 | Project Box 176x126x57.4mm -   Grey (Kradex Z74JPH ABS)  (προαιρετικό) | 1 | 4,9 | 4,9 | [Grobotronics](https://grobotronics.com/176x126x57.4mm-grey-kradex-z74jph-abs.html)
   |   |   |   |   |  
-**Α/Α** |**ΥΛΙΚΑ ΜΑΚΕΤΑΣ** | **Τεμάχια** | **Κόστος (Ευρώ)** / **Τεμάχιο** | **Κόστος (Ευρώ)** | **Κατάστημα** 
+**Α/Α** |**ΥΛΙΚΑ ΜΑΚΕΤΑΣ** | **Τεμάχια** | **Κόστος** / **Τεμάχιο (Ευρώ)** | **Κόστος (Ευρώ)** | **Κατάστημα** 
 35 | Μακετοχαρτο λευκό 10x50x70cm (Y-Π-Μ) | 3 | 4,99 | 14,97 | [Πλαίσιο](https://www.plaisio.gr/zografiki-diy/maketa/xartonia/Neofoam-Paper-Board-50x70cm-10mm-10MM-50X70.htm)
 36 | Χαρτόνι 50x70 (οποιοδήποτε ανοιχτό χρώμα) | 2 | 0,99 | 1,98 | [Jumbo](https://www.e-jumbo.gr/scholika/cheirotechnia/chartonia-cheirotechnias/chartonia-typou-canson/chartoni-typou-canson-portokali-50x70_68951)
 37 | Θερμοκόλλα | 1 | 1,49 | 1,49 | [Πλαίσιο](https://www.plaisio.gr/zografiki-diy/kataskeves-diy/thermokolisi/@Work-Ravdoi-Silikonis-11mmx20cm-6tem-AW10956.htm)
