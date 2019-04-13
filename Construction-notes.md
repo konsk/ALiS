@@ -19,21 +19,21 @@
 
 όπως φαίνεται στην παρακάτω εικόνα.
 
-![](https://github.com/konsk/A.Li.S./blob/master/%CE%A3%CF%87%CE%AD%CE%B4%CE%B9%CE%B1-%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B5%CF%82/dupont_3.png) 
+![](https://github.com/konsk/A.Li.S./blob/master/Schematics-Images/dupont_3.png) 
 
 Τα καλώδια για τα φώτα (led Strip) δεν χρειάζεται να καταλήγουν σε συνδετήρα τύπου dupont όπως στην παραπάνω εικόνα, καθώς θα συνδεθούν απευθείας στις κλέμμες  της μονάδας οδήγησης led (φαίνεται παρακάτω).
 
 Κατασκευάζουμε το κύκλωμα αισθητήρα φωτός. Κόβουμε την μια πλακέτα σε τεμάχια των (8x25mm) και υλοποιούμε το  κύκλωμα αισθητήρα όπως φαίνεται στο παρακάτω διάγραμμα, με τα υλικά που αναφέρονται, δηλαδή: πλακέτα μονής όψης 30x70mm (15), 4 φωτοαντιστάσεις (7), 4 αντιστάσεις 10Ω (9), 4 αντιστάσεις 10ΚΩ ισχύος 1/4W ανοχής 5% (8), 4 Dupont Terminal 3 Pins 2.54mm (21), 4x3 Pin Header Female Right Angle (19,20), μονόκλωνο καλώδιο (33).
 
-![](https://github.com/konsk/A.Li.S./blob/master/%CE%A3%CF%87%CE%AD%CE%B4%CE%B9%CE%B1-%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B5%CF%82/LDR2.png)
+![](https://github.com/konsk/A.Li.S./blob/master/Schematics-Images/LDR2.png)
 
 Για την σύνδεση των καλωδίων των αισθητήρων (κίνησης (5), υπερήχων (4), φωτός με την πλακέτα arduino (1), μπορούμε εναλλακτικά να κατασκευάσουμε 2 μικρές πλακέτες έξω από το προαιρετικό κουτί, όπου θα καταλήγουν τα άνω καλώδια και από την πλευρά του μικροελεγκτή τα καλώδια τύπου jumber (30,31). Θα χρησιμοποιήσουμε για αυτό εκτός από ένα μικρό κομμάτι διάτρητης πλακέτας τα Pin Header 1x40 Male 2.54 mm (18) (12 και 7 pins αντίστοιχα για την 1 πλακέτα) και τα Pin Header 1x10 Female Right Angle (19,20),  2x Pin Header 1x6 Female Right Angle (19,20) (2x6 = 12 και 7 pins αντίστοιχα για τις 2η πλακέτα), όπως φαίνεται στην παρακάτω εικόνα.
 
-<img src="/Σχέδια-Εικόνες/dupont_box.jpg" width="350"/> <img src="/Σχέδια-Εικόνες/control_unit_1.jpg" width="400"/>
+<img src="/Schematics-Images/dupont_box.jpg" width="350"/> <img src="/Schematics-Images/control_unit_1.jpg" width="400"/>
 
 Η μονάδα ισχύος για την οδήγηση των Led strip, απαιτεί την κατασκευή του παρακάτω κυκλώματος (κύκλωμα και διάγραμμα) με τα ακόλουθα υλικά: διάτρητη πλακέτα 72x47mm-μονής όψης (16), 4x IRFZ44N NMOSFET transistor (6), 4xLed κόκκινες 5mm (12) (απλές-όχι ισχύος), 4x αντιστάτες 100K ισχύος 1/4W ανοχής 5% (10), 4x αντιστάτες 680 ισχύος 1/4W ανοχής 5% (11), Molex Connector Male 4-Pin 2.54mm (24), Molex Connector Female 4-Pin 2.54mm (25), Crimp For Molex Connectors (26), 9x Screw Terminal 2P 5mm  (κλέμες πλακέτας) (27), καθώς και τους συνδετήρες τροφοδοσίας DC Power Jack 5.5 x 2.1mm Barrel (28) για ολόκληρο το σύστημα και DC Power Plug 5.5 x 2.1mm (29) για την πλακέτα arduino.
 
-![](https://github.com/konsk/A.Li.S./blob/master/hardware-designs/led_driver.png)
+![](https://github.com/konsk/A.Li.S./blob/master/Schematics-Images/led_driver.png)
 
 Για τα φώτα led Strip κόβουμε 4 κομμάτια ταινίας led μήκους 20cm (14) και κολλάμε τα καλώδια που κατασευάσαμε παραπάνω.
 Για την πράσινη led (13) που χρησιμοποιείται για αναγνώριση του σημείου στο οποίο βρίσκεται το πρόγραμμα (δηλ στις διαδικασίες ελέγχων των αισθητήρων), κολλάμε σε μια μικρή πλακέτα την led με μια αντίσταση 180Ω ισχύος 1/4W ανοχής 5%, όπως δείχνει το βασικό διάγραμμα A.Li.S. (δεν υπάρχει στην φωτογραφία των υλικών καθώς προστέθηκε στο τέλος).
