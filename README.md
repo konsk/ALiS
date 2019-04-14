@@ -12,4 +12,8 @@
 
 Τα απραίτητα υλικά για την υλοποίησή βρίσκονται στον σύνδεσμο: [Materials](https://github.com/konsk/A.Li.S./blob/master/Materials.md)
 
+Οδηγίες κατασκευής βρίσκονται στον σύνδεσμο: [Construction-notes](https://github.com/konsk/A.Li.S./blob/master/Construction-notes.md)
+
+Τα αρχεία κώδικα σε γλώσσα Wiring C βρίσκονται στον σύνδεσμο: [code_files](https://github.com/konsk/A.Li.S./tree/master/code_files)
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
