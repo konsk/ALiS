@@ -8,11 +8,11 @@
 4) α) ανίχνευση κίνησης 
 5) β) ανιχνευση απόστασης
 
-![A Li S_Diagram](https://github.com/konsk/A.Li.S./blob/master/Schematics-Images/A.Li.S_diagram.png)
+![A Li S_Diagram](https://github.com/konsk/ALiS/blob/master/Schematics-Images/A.Li.S_diagram.png)
 
-Τα απραίτητα υλικά για την υλοποίησή βρίσκονται στον σύνδεσμο: [Materials](https://github.com/konsk/A.Li.S./blob/master/Materials.md)
+Τα απραίτητα υλικά για την υλοποίησή βρίσκονται στον σύνδεσμο: [Materials](https://github.com/konsk/ALiS/blob/master/Materials.md)
 
-Οδηγίες κατασκευής βρίσκονται στον σύνδεσμο: [Construction-notes](https://github.com/konsk/A.Li.S./blob/master/Construction-notes.md)
+Οδηγίες κατασκευής βρίσκονται στον σύνδεσμο: [Construction-notes](https://github.com/konsk/ALiS/blob/master/Construction-notes.md)
 
 Το λογισμικό (IDE) για συγγραφή, αποσφαλμάτωση και "ανέβασμα"  στον μικροελεγκτή, βρίσκονται στον σύνδεσμο: [Arduino Software page](https://www.arduino.cc/en/Main/Software) από όπου υπάρχει πρόσβαση στον [Web Editor](https://create.arduino.cc/editor) ή "σύνδεσμος"  για λήψη (download) της Desktop εφαρμογής.
 
