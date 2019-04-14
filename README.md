@@ -14,11 +14,7 @@
 
 Οδηγίες κατασκευής βρίσκονται στον σύνδεσμο: [Construction-notes](https://github.com/konsk/A.Li.S./blob/master/Construction-notes.md)
 
-Το λογισμικό για συγγραφή, αποσφαλμάτωση και ¨ανέβασμα¨  στον μικροελεγκτή, βρίσκονται στον ακόλουθο σύνδεσμο:
-
-[Arduino Software page](https://www.arduino.cc/en/Main/Software)
-
-[Web Editor](https://create.arduino.cc/editor) η Desktop εφαρμογή.
+Το λογισμικό για συγγραφή, αποσφαλμάτωση και "ανέβασμα"  στον μικροελεγκτή, βρίσκονται στον σύνδεσμο: [Arduino Software page](https://www.arduino.cc/en/Main/Software) από όπου υπάρχει πρόσβαση στον [Web Editor](https://create.arduino.cc/editor) ή "σύνδεσμος"  για λήψη (download) της Desktop εφαρμογής.
 
 Τα αρχεία κώδικα σε γλώσσα Wiring C βρίσκονται στον σύνδεσμο: [code_files](https://github.com/konsk/A.Li.S./tree/master/code_files)
 
