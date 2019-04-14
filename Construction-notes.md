@@ -14,7 +14,7 @@
 
  όπως φαίνεται στην παρακάτω εικόνα.
 
-![](https://github.com/konsk/A.Li.S./blob/master/Schematics-Images/dupont_3.png) 
+![](https://github.com/konsk/ALiS/blob/master/Schematics-Images/dupont_3.png) 
 
 Τα καλώδια για τα φώτα (led Strip) δεν χρειάζεται να καταλήγουν σε συνδετήρα τύπου dupont όπως στην παραπάνω εικόνα, καθώς θα     συνδεθούν απευθείας στις κλέμμες  της μονάδας οδήγησης led (φαίνεται παρακάτω).
 
@@ -22,7 +22,7 @@
 
 Κόβουμε την μια πλακέτα σε τεμάχια των (8x25mm) και υλοποιούμε το  κύκλωμα αισθητήρα όπως φαίνεται στο παρακάτω διάγραμμα, με τα υλικά που αναφέρονται, δηλαδή: πλακέτα μονής όψης 30x70mm (15), 4 φωτοαντιστάσεις (7), 4 αντιστάσεις 10Ω (9), 4 αντιστάσεις 10ΚΩ ισχύος 1/4W ανοχής 5% (8), 4 Dupont Terminal 3 Pins 2.54mm (21), 4x3 Pin Header Female Right Angle (19,20), μονόκλωνο καλώδιο (33).
 
-![](https://github.com/konsk/A.Li.S./blob/master/Schematics-Images/LDR2.png)
+![](https://github.com/konsk/ALiS/blob/master/Schematics-Images/LDR2.png)
 
 **3) Κατασκευή 2 μικρών πλακετών έξω από το προαιρετικό κουτί (1 ώρα)**
 
@@ -34,7 +34,7 @@
 
 Η μονάδα ισχύος για την οδήγηση των Led strip, απαιτεί την κατασκευή του παρακάτω κυκλώματος (κύκλωμα και διάγραμμα) με τα ακόλουθα υλικά: διάτρητη πλακέτα 72x47mm-μονής όψης (16), 4x IRFZ44N NMOSFET transistor (6), 4xLed κόκκινες 5mm (12) (απλές-όχι ισχύος), 4x αντιστάτες 100K ισχύος 1/4W ανοχής 5% (10), 4x αντιστάτες 680 ισχύος 1/4W ανοχής 5% (11), Molex Connector Male 4-Pin 2.54mm (24), Molex Connector Female 4-Pin 2.54mm (25), Crimp For Molex Connectors (26), 9x Screw Terminal 2P 5mm  (κλέμες πλακέτας) (27), καθώς και τους συνδετήρες τροφοδοσίας DC Power Jack 5.5 x 2.1mm Barrel (28) για ολόκληρο το σύστημα και DC Power Plug 5.5 x 2.1mm (29) για την πλακέτα arduino.
 
-![](https://github.com/konsk/A.Li.S./blob/master/Schematics-Images/led_driver.png)
+![](https://github.com/konsk/ALiS/blob/master/Schematics-Images/led_driver.png)
 
 **5) Κόλληση των καλωδίων στις 4 ταινίες led. (1 ώρα)**
 
