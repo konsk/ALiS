@@ -53,7 +53,7 @@
 **Ειδικά εργαλεία και υλικά που θα χρειαστούν:**
 - [Σταθμός κόλλησης](https://grobotronics.com/48w-zd99.html) ή [κολλητήρι](https://grobotronics.com/zd-200n-30w.html)
 - [Κόλληση](https://grobotronics.com/14g-lead-free.html) (υλικό κόλλησης για πλακέτες) (Καλάι)
-- [Πιστόλι σιλικόνης]https://grobotronics.com/mini-zd5b-20w.html)
+- [Πιστόλι σιλικόνης](https://grobotronics.com/mini-zd5b-20w.html)
 - [Ράβδοι σιλικόνης](https://grobotronics.com/20cm-11.html)
 - [Zip ties](https://grobotronics.com/48w-zd99.html) (υλικό κόλλησης για πλακέτες) ή Cable ties
 
