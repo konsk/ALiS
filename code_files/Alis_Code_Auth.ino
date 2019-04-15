@@ -52,7 +52,7 @@ void loop()                     // Κυρίως πρόγραμμα
     Serial.print("  dm_counter = "); Serial.println(dm_counter);  Serial.println(" ---------------------------------------- ");
     digitalWrite(led, HIGH);
     delay(1000);
-  }while(dm_counter < 3);  //ΠΡΟΒΛΗΜΑ_1: ΙΣΟΤΗΤΑ ΝΑ ΓΝΕΙ ΑΝΙΣΟΤΗΤΑ dm_counter < limit_dm_counter
+  }while(dm_counter < 3); 
     
   Serial.println(" ΤΕΛΟΣ ΠΡΩΤΟΥ ΕΛΕΓΧΟΥ ");   Serial.println();
   delay(2000);
