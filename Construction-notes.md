@@ -30,7 +30,7 @@
 
 <img src="/Schematics-Images/dupont_box.jpg" width="350"/> <img src="/Schematics-Images/control_unit_1.jpg" width="400"/>
 
-**4) Κατασκευή μονάδα ισχύος. (2 ώρες)**
+**4) Κατασκευή μονάδας ισχύος. (2 ώρες)**
 
 Η μονάδα ισχύος για την οδήγηση των Led strip, απαιτεί την κατασκευή του παρακάτω κυκλώματος (κύκλωμα και διάγραμμα) με τα ακόλουθα υλικά: διάτρητη πλακέτα 72x47mm-μονής όψης (16), 4x IRFZ44N NMOSFET transistor (6), 4xLed κόκκινες 5mm (12) (απλές-όχι ισχύος), 4x αντιστάτες 100K ισχύος 1/4W ανοχής 5% (10), 4x αντιστάτες 680 ισχύος 1/4W ανοχής 5% (11), Molex Connector Male 4-Pin 2.54mm (24), Molex Connector Female 4-Pin 2.54mm (25), Crimp For Molex Connectors (26), 9x Screw Terminal 2P 5mm  (κλέμες πλακέτας) (27), καθώς και τους συνδετήρες τροφοδοσίας DC Power Jack 5.5 x 2.1mm Barrel (28) για ολόκληρο το σύστημα και DC Power Plug 5.5 x 2.1mm (29) για την πλακέτα arduino.
 
