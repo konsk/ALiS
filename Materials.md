@@ -55,6 +55,6 @@
 - [Κόλληση](https://grobotronics.com/14g-lead-free.html) (υλικό κόλλησης για πλακέτες) (Καλάι)
 - [Πιστόλι σιλικόνης](https://grobotronics.com/mini-zd5b-20w.html)
 - [Ράβδοι σιλικόνης](https://grobotronics.com/20cm-11.html)
-- [Zip ties](https://grobotronics.com/48w-zd99.html) (υλικό κόλλησης για πλακέτες) ή Cable ties
+- [Zip ties](https://grobotronics.com/cable-tie-100mm-black-100pcs.html) (υλικό κόλλησης για πλακέτες) ή Cable ties
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
