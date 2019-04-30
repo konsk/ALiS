@@ -84,6 +84,5 @@ void loop()                     // Κυρίως πρόγραμμα
   Serial.println(" --------------------------------------- ");
   delay(5000);
     
-  turn_off_lights(brightness11, brightness10, brightness09, brightness06);      //  Σβήσε τα φώτα ομαλά εφόσον δεν υπάρχει άνθρωπος 
-                            
+  turn_off_lights(brightness11, brightness10, brightness09, brightness06);      //  Σβήσε τα φώτα ομαλά εφόσον δεν υπάρχει άνθρωπος                         
 }
