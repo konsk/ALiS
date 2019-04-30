@@ -25,5 +25,6 @@ void setup()
 
   digitalWrite(led, LOW);         // Aρχικά τα led σβηστό
 
-  attachInterrupt(digitalPinToInterrupt(button), button_pressed, FALLING);
+  attachInterrupt(digitalPinToInterrupt(button), button_pressed, FALLING);  // Δεν έχει υλοποιηθεί ακόμη χειροκίνητη 
+                                                                            // ενεργοποίηση / απενεργοποίηση φώτων
 }
