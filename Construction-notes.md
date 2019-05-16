@@ -65,7 +65,7 @@
 **Εφαρμογή διδακτικών παρεμβάσεων**
 Μπορούμε να εφαρμόσουμε δυο διδακτικά σενάρια με τη μορφή διδακτικών παρεμβάσεων σε 2 ενότητες του μαθήματος Φυσική Γ Γυμνασίου, όπως παρουσιάζονται στο παρακάτω αρχεία: 
 
-[Διδακτικό σενάριο (Arduino_activities)](https://github.com/konsk/ALiS/blob/master/Files/Arduino_activities.pdf)
+[Διδακτικό σενάριο (Arduino_activities)](https://github.com/konsk/ALiS/blob/master/Files/Edu_activity%20(Arduino_activities).pdf)
 
 [Φύλλα Εργασίας 1 & 2 (Arduino_activities)](https://github.com/konsk/ALiS/blob/master/Files/Arduino_activities.pdf)
 
