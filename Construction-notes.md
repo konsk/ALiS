@@ -63,9 +63,13 @@
 Συνδέουμε όλα τα καλώδια των παραπάνω αισθητήρων, φώτων, led, button με την κεντρική μονάδα μικροελεγκτή (arduino) και την μονάδα ισχύος.
 
 **Εφαρμογή διδακτικών παρεμβάσεων**
-Μπορούμε να εφαρμόσουμε δυο διδακτικά σενάρια με τη μορφή διδακτικών παρεμβάσεων σε 2 ενότητες του μαθήματος Φυσική Γ Γυμνασίου, όπως παρουσιάζονται στο παρακάτω αρχείο: [Φύλλα Εργασίας 1 & 2 (Arduino_activities)](https://github.com/konsk/ALiS/blob/master/Files/Arduino_activities.pdf)
+Μπορούμε να εφαρμόσουμε δυο διδακτικά σενάρια με τη μορφή διδακτικών παρεμβάσεων σε 2 ενότητες του μαθήματος Φυσική Γ Γυμνασίου, όπως παρουσιάζονται στο παρακάτω αρχεία: 
 
+[Διδακτικό σενάριο (Arduino_activities)](https://github.com/konsk/ALiS/blob/master/Files/Arduino_activities.pdf)
 
+[Φύλλα Εργασίας 1 & 2 (Arduino_activities)](https://github.com/konsk/ALiS/blob/master/Files/Arduino_activities.pdf)
+
+Το εκπαιδευτικό περιεχόμενο (διδακτικό σενάριο και φύλλα εργασίας) υπόκεινται σε άδεια χρήσης CC-BY-4.0
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
