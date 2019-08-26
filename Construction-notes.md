@@ -67,7 +67,7 @@
 
 [Διδακτικό σενάριο (Arduino_activities)](https://github.com/konsk/ALiS/blob/master/Files/Edu_activity%20(Arduino_activities).pdf)
 
-[Φύλλα Εργασίας 1 & 2 (Arduino_activities)](https://github.com/konsk/ALiS/blob/master/Files/Arduino_activities.pdf)
+[Φύλλα Εργασίας 1 & 2 (Arduino_activities)](https://github.com/konsk/ALiS/blob/master/Files/Arduino_activities_1_&_2.pdf)
 
 Το εκπαιδευτικό περιεχόμενο (διδακτικό σενάριο και φύλλα εργασίας) υπόκεινται σε άδεια χρήσης CC-BY-4.0
 
